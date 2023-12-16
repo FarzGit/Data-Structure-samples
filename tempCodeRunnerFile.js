@@ -1,0 +1,2 @@
+
+            let curr = this.head
