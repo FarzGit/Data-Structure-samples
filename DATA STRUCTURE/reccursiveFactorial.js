@@ -13,7 +13,8 @@ function recursivFactorial(n){
 
 
 console.log(recursivFactorial(4))
-console.log(recursivFactorial(5))
-console.log(recursivFactorial(8))
-console.log(recursivFactorial(9))
-console.log(recursivFactorial(30))
+
+
+
+
+

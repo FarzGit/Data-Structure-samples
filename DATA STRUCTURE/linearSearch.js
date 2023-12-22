@@ -12,4 +12,4 @@ function linearSearch(n,t){
 }
 
 
-console.log(linearSearch([1,2,3],3))
+console.log(linearSearch([1,2,3],))

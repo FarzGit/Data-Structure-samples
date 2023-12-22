@@ -2,6 +2,7 @@
 
 function binarySearch(arr,target){
 
+
     let li = 0;
     let ri=  arr.length -1
 
@@ -21,9 +22,8 @@ function binarySearch(arr,target){
     return -1 
 
 }
-console.log(binarySearch([-1,2,3,5,7], 7))
-console.log(binarySearch([-1,2,3,5,7],50))
-console.log(binarySearch([-1,2,3,5,7,], -1))
+console.log(binarySearch([20,30,2,5,10], 30))
+
 
 
 // o(logn)   because of every itration we reduce by half thats why logn big O
