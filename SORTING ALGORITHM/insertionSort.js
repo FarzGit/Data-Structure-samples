@@ -1,22 +1,28 @@
+function insertionSort (arr) {
+  
 
+    for (let i = 1; i < arr.length - 1; i++) {
+      let nti = arr[i]
 
-let arr = [2,4,3,5,-2,7,6]
+      let j = i - 1
+      while (j >= 0 && arr[j] > nti) {
+        arr[j + 1] = arr[j]
 
-let swapped
-        do{
-        swapped = false
-
-     for(let i=0; i<arr.length-1; i++){
+        j = j - 1
         
-            
-            if(arr[i]>arr[i+1]){
-                let temp = arr[i]
-                arr[i]=arr[i+1]
-                arr[i+1]= temp
-                swapped = true
-            }
-        }
-        
-     }while(swapped)
+      }
+      arr[j + 1] = nti
+    }
+ 
+}
 
-  console.log(arr)
+const arr = [1,4,5,3,2,6,-6,8,9]
+insertionSort(arr)
+console.log('sorted array is :',arr)
+
+
+
+
+
+
+

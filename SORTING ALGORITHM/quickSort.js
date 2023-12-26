@@ -24,3 +24,9 @@ function quickSort(arr){
 const arr = quickSort([1,4,6,0,7,-2,3,7])
 
 console.log(arr)
+
+
+
+
+
+
