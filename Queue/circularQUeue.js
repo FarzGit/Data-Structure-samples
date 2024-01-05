@@ -84,9 +84,7 @@ console.log(list.dequeue())
 list.print()
 list.enqueue(50)
 list.print()
-console.log(list.dequeue())
-console.log(list.dequeue())
-console.log(list.dequeue())
+
 list.print()
 
 

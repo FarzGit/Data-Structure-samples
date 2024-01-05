@@ -63,10 +63,10 @@ class HashTable {
   table.set("name", "Bruce");
   table.set("age", 25);
   table.display();
-//   console.log(table.get("name"));
-//   table.set("mane", "Clark");
-//   table.set("name", "Diana");
-//   table.set("nema", "Diana");
-//   table.display();
-//   console.log(table.get("nema"));
-// //   table.remove("name");
+  console.log(table.get("name"));
+  table.set("mane", "Clark");
+  table.set("name", "Diana");
+  table.set("nema", "Diana");
+  table.display();
+  console.log(table.get("nema"));
+

@@ -1,3 +1,1 @@
-
-list.enqueue(50)
-list.print()
+str += this.items[i]
