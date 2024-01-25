@@ -121,24 +121,23 @@ class binarySearchTree{
 const bst = new binarySearchTree()
 
 
-
-bst.insert(6)
-bst.insert(5)
-bst.insert(8)
-bst.insert(2)
-bst.insert(15)
-bst.insert(7)
+    bst.insert(6)
+    bst.insert(5)
+    bst.insert(8)
+    bst.insert(2)
+    bst.insert(15)
+    bst.insert(7)
 // console.log(bst.search(bst.root,8))
 // console.log(bst.search(bst.root,10))
 // console.log(bst.search(bst.root,6))
 // console.log(bst.search(bst.root,5))
-
-// bst.levelOrder()
-
-console.log(bst.min(bst.root))
-console.log(bst.max(bst.root))
+bst.levelOrder()
 
 
+// console.log(bst.preOrder(bst.root))
+
+// console.log(bst.min(bst.root))
+// console.log(bst.max(bst.root))
 
 
 // console.log(bst.isEmpty())
