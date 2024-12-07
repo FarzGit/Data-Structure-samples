@@ -1,0 +1,90 @@
+web pack
+web pack server
+jsx
+adv of jsx
+features of jsx
+babel 
+transpile
+fragment
+props
+propType
+default props
+conditional rendering
+click event
+react hook
+useState()
+onchange()
+updater function
+useEffect() 
+strict mode
+mount
+unmount
+useContext()
+prop drilling
+useRef()
+
+redux
+toolKit
+redux Core Concept
+actioin
+reducers
+dispacth
+store
+reduxHokks
+useSelector
+conbineReducers
+ActionCreators
+debouncing
+throtling
+redux - thunk
+redux - sega
+flux
+redux-logger
+rtkQuery
+jsonWebToken
+useStore
+connect
+mapStateToProps
+mapDispatchtoProps
+react-profiler
+slice
+immer
+advatage of redux
+disadvantage of redux
+pure function
+shadow dom
+html sanitization
+event polling
+browser Route
+memory route
+native events
+synthethic events
+event publing
+event capturing
+types of middleware in react redux
+Dev-dependencies and how to install them
+res methods
+setHeader vs writeHeader
+fs module and its methods
+PATCH & OPTIONS
+3rd party middlewares and examples
+Dynamic routing
+Router chaining
+
+CSS positions
+DOM and DOM methods
+innerHTML vs innerText"
+React
+debouncing
+throttling
+Axios interceptors
+Axios cancelToken
+deadcode elimination
+polyfills
+Axios interceptors
+Axios cancelToken
+dynamic import
+Shadow DOM
+HTML sanitization
+event pooling
+Proxy object
