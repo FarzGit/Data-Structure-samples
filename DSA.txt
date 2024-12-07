@@ -1,0 +1,124 @@
+Load factor
+Types of indexing
+Quadratic probing
+Spanning tree
+Minimum spanning tree
+clumping 
+topology
+advantage of tail recursion
+ASCII vs UTF8
+segment tree
+linear probing
+Dijkstra's algorithm
+Serialise a binary tree
+Red-Black Tree
+AVL tree
+Compressed Trie
+segment tree
+monotonic stack
+linear probing
+sparse array
+Dijkstra's algorithm
+Serialize a binary tree
+Red-Black Tree
+AVL tree
+Compressed Trie
+application af LL,elc...
+ LL O(n)
+ what is ds
+ linear vs nonlinear ds
+ types of ds
+ algorithm
+ complexity analysis
+ asymptotic analysis and notation
+ memory allocation
+ types of memory allocation
+ contiguous and non contiguous
+ memory leaks
+ garbage collection and its working
+when garbage collector fails
+ circular LL
+ doubly LL
+ recursion 
+ adv and disadv
+ mutable and immutable string
+ hierarchical DS
+  jagged array
+ bubble sort O(n^2)
+ insertion sort O(n^2)
+ selection sort O(n^2)
+ quick sort O(nlog n),O(n^2)worst case
+ merge sort O(nlog n)
+ stack(lifo)
+ queue(fifo)
+ peek
+ application of queue and stack
+ stable and unstable 
+ deterministic and non deterministic
+ types of queue and stack
+ stack underflow vs stack overflow
+ divide and conquer strategy
+ hashtable,application
+ pros of LL using for stack and queue
+ double ended queue
+ hash fn,types
+ hash value
+ collision
+ methods to prevent collision
+ chaining,linear probing,quadratic,double hashing
+ load factor
+ array vs hashtable
+ tree,application
+ complete,full,perfect tree
+ bst O(log n)
+ heap O(log n)
+ types of graph
+ isolated vertex
+ weighted graph 
+ heapsort O(n)
+ trie vs hashtable
+ graph indexing
+ vertex indexing
+ edge indexing
+ height vs depth of a node
+ degree of a node
+ shortest path algorithm
+ binomial heap
+ BFS and DFS
+ self balancing tree
+ topdown and bottom up heapification
+ how to check bst is a subset of x
+ adv of priority queue using heap
+ adjacency list and adjacency matrix
+ graph , application ,types
+ BST , application ,type
+ trie application ,type
+ heap , application , type
+
+
+Render props
+Quadratic probing
+Load factor
+Spanning tree
+Minimum spanning tree
+
+
+
+
+$facet
+$expr
+$elemMatch
+$addToSet
+$cond
+
+
+
+
+
+
+
+
+
+
+
+
