@@ -1,0 +1,181 @@
+Mongo DB
+
+ ◦ Collection
+ ◦ CRUD
+ ◦ Lookup
+ ◦ Unwind
+ ◦ In 
+ ◦ Capped collection
+ ◦ Alias
+ ◦ Mongo Utilitiesa
+ ◦ Indexing
+ ◦ Logical operator -              and or not nor
+ ◦ Comparison operator -           lt gt eq ne
+ ◦ Namespace
+ ◦ addtoSet()
+ ◦ Sharing ◦ Insert vs save
+ ◦ BSON
+ ◦ Data type
+ ◦ Update operators - set unset inc
+ ◦ Distinct - unique
+
+ ◦ Accumulators - max min sum avg
+ ◦ Count
+ ◦ Out
+ ◦ Find one and upd
+ ◦ Replication
+ ◦ Aggregation
+ ◦ Normalisation and denormalisation
+ ◦ Aggregation Pipeline13
+ ◦ Replica set
+ ◦ Different types of indexing       
+ > sql vs no sql
+ > relation vs non relational 
+ > regex
+ > cursor
+ > upsert
+ > election
+ > CAP theorem
+ > views
+ > embedded object 
+ > allowdiskuse
+ > sharding
+ > vertical and horizontal scaling
+ > atlas
+ > trigger
+ > gridfs
+ > bitwise operator
+ ◦ Collection
+ ◦ CRUD
+ ◦ Lookup
+ ◦ Unwind
+ ◦ In was all
+ ◦ Capped collection
+ ◦ Alias
+ ◦ Mongo Utilities
+ ◦ Mongo Dump
+ ◦ Indexing
+ ◦ Logical operator
+ ◦ Comparison operator
+ ◦ Namespace
+ ◦ addtoSet()
+ ◦ Sharing
+ ◦ Insert vs save
+ ◦ BSON
+ ◦ Mongo export
+ ◦ Data type
+ ◦ Mongo Server
+ ◦ Update operators - set unset inc
+ ◦ Distinct - unique
+ ◦ Accumulators
+ ◦ Count
+ ◦ Out
+ ◦ Express
+ ◦ Find one and update
+ ◦ Indexing
+ ◦ Replication
+ ◦ Aggregation
+ ◦ Normalisation
+ ◦ Aggregation Pipeline
+ ◦ Replica set
+ ◦ Different types of indexing
+## MongoDB Features
+Ad-hoc Queries
+Schema-Less Database
+Document-Oriented
+Indexing
+Replication
+Aggregation
+GridFS
+Sharding
+High Performance
+
+
+components of sharding 
+what is MongoDB features alternatives 
+object id structured 
+how many nodes can be beset in the replica set 
+object id size 
+relational data modeling 
+embedded data modeling 
+MongoDB backup and restore 
+replica set 
+primary and secondary replica set 
+storage engine type of storage engine 
+alternatives of MongoDB
+types of indexing  
+cursor
+collection 
+SQL vs NoSQL 
+why does MongoDB use bson
+sharding vs replication 
+insert vs save 
+update vs updateOne 
+type of aggregation 
+decrement 
+what is data redundancy 
+Queries
+Engine
+Advantages
+Difference between SQL and nosql
+How to add media
+Covered query
+Profiler
+Indexing
+mongoDB (non -realational)
+SQL
+noSql
+collection
+document
+replication (replica set)
+sharding (shard Key)
+indexing(types)
+map-reduce
+aggregation(pipelines)
+gridFs
+transaction
+mongoshell
+cursor
+capped collection
+alias
+mongo utlities
+Oprators( logical,comparison,upate)
+normalization,Denormalization
+distinct
+BSON vs JSON
+namespace
+Date vs timeStamp
+CAP
+No sql injection
+GeoSpatial Queries
+journeling
+$out 
+$merge
+$lookup
+$unWind
+$upsert
+$insert vs save
+ACID properties
+Add To Set
+
+Mongodb
+Hashed indexes
+TTL index
+BSON advantage
+database profiler
+covered query
+$facet
+$expr
+$elemMatch
+$addToSet
+journaling
+update practicals
+Geospatial index
+Hashed index
+TTL index
+$facet
+covered query
+bulkWrite
+batch sizing
+levels in isolation
+$cond
