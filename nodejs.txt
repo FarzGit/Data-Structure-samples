@@ -1,0 +1,196 @@
+nodejs
+modules
+http method
+url modules
+npm
+api
+api versioning
+rate limiting
+idempotence
+rest principles (Api)
+nodemon
+postman
+viewEngine
+route
+REPL
+middleware
+session and cookie
+buffer and stream(types)
+MVC
+query and path params
+CORS
+orgin policy
+preflight
+conten negotion
+Event loop (nodejs)
+fork , spawn
+libuv
+process
+thread
+dynamic Route
+proces.nextTick()
+setImmediate 
+event emitter
+dependency-dev deppendency
+control-flow function
+piping
+thread
+child thread
+thread pool
+concurrency
+Cluster 
+stub
+Z-lib
+http-Trace,head,options,Connect
+proxy_pass
+cron-job
+os module
+Connect and net (module)
+◦ Patch & put
+ ◦ Option Method
+ ◦ Middlewares
+ ◦ Callback
+ ◦ Set-immediate
+ ◦ Error middleware
+ ◦ fs - modules
+ ◦ Events
+ ◦ HTTP modules - createServer()
+ ◦ package.js dependencies
+ ◦ Routing
+ ◦ Query Parameters
+ ◦ Session and cookie
+ ◦ View engine
+ ◦ Hbs
+ ◦ Get post difference
+ ◦ 400 error
+ ◦ 500 error
+ ◦ Cors in detail
+ ◦ Body parser
+ ◦ Applied file , write file
+ ◦ Global execution context
+ ◦ package.js
+ ◦ Morgan
+ ◦ NPM
+ ◦ PM2
+ ◦ Postman
+ ◦ Error handling in express
+ ◦ Types of errors
+ ◦ app.use
+ ◦ MVC
+ ◦ TRACE
+ ◦ Child process
+ ◦ Patch & put
+ ◦ Option Method
+ ◦ Middlewares
+ ◦ Callback
+ ◦ Set-immediate
+ ◦ types of middleware
+ ◦ fs - modules
+ ◦ Events
+ ◦ HTTP modules - createServer()
+ ◦ package.js dependencies
+ ◦ Routing
+ ◦ Query Parameters
+ ◦ Session and cookie
+ ◦ View engine
+ ◦ Hbs
+ ◦ Get post difference
+ ◦ 400 error vs 500 error...etc
+ ◦ status code
+ ◦ Cors in detail
+ ◦ Body parser
+ ◦ Applied file , write file
+ ◦ Global execution context
+ ◦ package-lock.js file
+ ◦ Morgan
+ ◦ NPM
+ ◦ PM2
+ ◦ Postman
+ ◦ Error handling in express
+ ◦ Types of errors
+ ◦ app.use
+ ◦ MVC
+ ◦ TRACE
+ ◦ Child process
+ > fork,spawn,exec,execfile
+ > node,why
+ > repl
+ > modules
+ > core module 
+ > local module 
+ > npm moddule
+ > node global object
+ > json
+ > express js
+ > streams
+ > types of streams
+ > techniques used for streams(piping and chaining)
+ > token
+ > libuv
+ > res.send vs res.write
+ > api
+ > logger
+ > https
+ > nodemon
+ > settimeout
+ > setinteral
+ > secret
+ > thread pool
+ > yarn
+ > debug
+ > util
+ > zlib
+ > unique identifier
+ > payload
+ > ENV
+ > TLS
+ > authentication vs authorisation
+ > app.all()
+ > structure of http request and response
+nodejs
+modules
+http method
+url modules
+npm
+api
+api versioning
+rate limiting
+idempotence
+rest principles (Api)
+nodemon
+postman
+viewEngine
+route	
+REPL
+middleware
+session and cookie
+buffer and stream(types)
+MVC
+query and path params
+CORS
+orgin policy
+preflight
+conten negotion
+Event loop (nodejs)
+fork , spawn
+libuv
+process
+thread
+dynamic Route
+proces.nextTick()
+setImmediate 
+event emitter
+dependency-dev deppendency
+control-flow function
+piping
+thread
+child thread
+thread pool
+concurrency
+Cluster 
+stub
+Z-lib
+http-Trace,head,options,Connect
+proxy_pass
+cron-job
+os module
