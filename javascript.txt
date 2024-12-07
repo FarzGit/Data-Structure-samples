@@ -1,0 +1,194 @@
+javascript
+typeCasting(implicit and explicit)
+primitive and non primitive
+generator function
+identifiers
+async await 
+Promise
+Starvation
+pass by value/pass by reference
+highorder function
+callback function
+local and session storage
+nullish operator  ( ?? / ??=)
+	
+event delegation,bubbling,capturing
+first class function
+errors in js
+callstack, eventloop,callback queue
+this keyword,
+hoisting 
+clossure
+currying
+TDZ
+exception handling
+http structure
+escape sequence
+literals
+shallow copy and deep copy
+lodash (library)
+object freeze()
+weekMap,weekSet
+spread, rest operators
+call apply blind
+reduce,map,filter
+constructor function
+keywords,
+Identifier
+Nullish oparetor
+flatMap 
+Hashmap 
+Generator function
+Factory function
+Throw
+Thread
+Implicit type conversion 
+Event bubbling
+Transaction
+Cron job
+Views
+Types of indexing
+Profiler
+Render props
+Quadratic probing
+Load factor
+Spanning tree
+Minimum spanning tree
+JS
+Event delrgation
+Weakset
+Weakmap
+Proxy object
+function composition
+prototype pollution
+nullish operator
+Promise.race vs Promise.any
+ ✓ DOM		
+ ✓ CDN vs Download
+ ✓ Event Listener
+ ✓ Closure
+ ✓ Scope and types of scope
+ ✓ Hoisting
+ ◦ Array methods
+ ◦ Array cloning
+ ◦ Spread operator
+ ◦ Map, for each and reduce()
+ ◦ Filter 
+ ◦ Callback
+ ◦ String methods
+ ◦ Callback hell
+ ◦ Currying
+ ◦ Memoization
+ ◦ Promise , promise methods
+ ◦ Arrow function
+ ◦ Types of conversion - int, parse
+ ◦ Conditional statement
+ ◦ Prototype
+ ◦ Instance()
+ ◦ Class , object, object methods
+ ◦ Object destructuring
+ ◦ Variable typing
+ ◦ Event Loop
+ ◦ Call stack
+ ◦ Global Execution context
+ ◦ Rest 
+ ◦ Spread 
+ ◦ Call 
+ ◦ Apply 
+ ◦ Bind
+ ◦ Shadowing
+ ◦ This
+ ◦ IIFE
+Event delrgation
+Weakset
+Weakmap
+Proxy object
+function composition
+prototype pollution
+nullish operator
+Promise.race vs Promise.any
+Identifier
+Nullish oparetor
+flatMap 
+Hashmap 
+Generator function
+Factory function
+Throw
+Thread
+Implicit type convertion 
+Event bubbling
+Transaction
+Cron job
+Views
+Types of indexing
+Profiler
+Render props
+Quadratic probing
+Load factor
+Spanning tree
+Minimum spanning tree
+Weakset
+weakmap
+Object.seal
+Object.prototype
+generator function practical
+function composition
+Proxy object
+flatMap
+
+ ✓ DOM
+ ✓ CDN vs Download
+ ✓ Event Listener
+ ✓ Closure
+ ✓ Scope and types of scope
+ ✓ Hoisting
+ ◦ Array methods
+ ◦ Array cloning
+ ◦ Spread operator
+ ◦ Map, for each and reduce()
+ ◦ Filter 
+ ◦ Callback
+ ◦ String methods
+ ◦ Callback hell
+ ◦ Currying
+ ◦ Memoization
+ ◦ Promise , promise methods
+ ◦ Arrow function
+ ◦ Types of conversion - int, parse
+ ◦ Conditional statement
+ ◦ Prototype
+ ◦ Instance()
+ ◦ Class , object, object methods
+ ◦ Object destructuring
+ ◦ Variable typing
+ ◦ Event Loop
+ ◦ Call stack
+ ◦ Global Execution context
+ ◦ Rest 
+ ◦ Spread 
+84.32.84.32
+ ◦ Call 
+ ◦ Apply 
+ ◦ Bind
+ ◦ Shadowing
+ ◦ This
+ ◦ IIFE
+ > undifined vs not difined vs null
+ > fisrt class fn
+ > post and pre increment
+ > bracket notation
+ > template literals
+ > try catch
+ > pure order fn
+ > session vs local vs cookies
+ > call by value vs call by refrence
+ > recursive fn
+ > primitive and non primitive
+ > temporal dead zone
+ > higher order fn
+ > async await 
+ > this keyword
+ > concat
+ > identifier
+ > escape seaquence
+                  
